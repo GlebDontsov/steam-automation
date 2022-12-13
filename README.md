@@ -9,7 +9,4 @@
     ```yaml
     vetoshewcvasim:9b6s4342wzs:vetoshnvasim@rambler.ru:Lc4We3VzpY
     ```
-2. Запустить программу командой 
-```shell
-python ma_accounts.py
-```
+2. Запустить программу
