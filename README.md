@@ -11,5 +11,5 @@
     ```
 2. Запустить программу командой 
 ```shell
-python ma_accounts.txt
+python ma_accounts.py
 ```
